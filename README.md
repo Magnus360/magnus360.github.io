@@ -41,9 +41,9 @@ Este proyecto está bajo la licencia [MIT](LICENSE), lo que permite su uso, modi
 Para proyectos, colaboraciones o consultas:
 
 **Proyectos Magnus 360**  
-Correo: _tu-correo@dominio.com_  
+Correo: jcalvarez@magnus360.xyz  
 WhatsApp: _link de contacto directo_  
-Instagram / LinkedIn: _enlaces a redes sociales_
+Instagram / LinkedIn: _enlaces a redes sociales
 
 ---
 
