@@ -24,7 +24,7 @@ El objetivo de este sitio web es comunicar de forma accesible y profesional los 
 - Datos de contacto y formulario de conexión
 
 ---
-## ✨ Filosofía Magnus
+## ✨ La Filosofía Magnus 360
 
 > “La tierra no nos pertenece, nosotros pertenecemos a la tierra.” — Jefe Seattle  
 > En Proyectos Magnus 360 creemos que cada proyecto de conservación cuenta una historia que merece ser estructurada, comunicada y transformada en impacto real.
