@@ -42,7 +42,7 @@ Rigor, claridad y sentido.
 > “En lo salvaje está la preservación del mundo.”  
 > “La biodiversidad es la verdadera riqueza de la Tierra.”  
 > “La naturaleza no es un lugar para visitar. Es el hogar.”  
-> “Cada flor es un alma que florece en la naturaleza.”
+> “Cada flor es un alma que florece en la naturaleza.” 
 
 <p style="text-align:right; font-style:italic; margin-top:10px;">— Ecos de una visión enraizada</p>
 
