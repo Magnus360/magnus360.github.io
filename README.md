@@ -1,4 +1,4 @@
-# 🌱 Proyectos Magnus 360 - Sitio Web Oficial
+# 🌱 Consultoría y Proyectos - Magnus 360 - Sitio Web Oficial
 
 <p align="center">
   <img src="logo.jpg" alt="Logo Proyectos Magnus 360" width="400"/>
