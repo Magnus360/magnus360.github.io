@@ -44,9 +44,9 @@ Rigor, claridad y sentido.
 > “La naturaleza no es un lugar para visitar. Es el hogar.”  
 > “Cada flor es un alma que florece en la naturaleza.”
 
-</div>
-
 <p style="text-align:right; font-style:italic; margin-top:10px;">— Ecos de una visión enraizada</p>
+
+</div>
 
 En Proyectos Magnus 360 creemos que cada proyecto de conservación cuenta una historia que merece ser estructurada, comunicada y transformada en impacto real.
 
