@@ -33,18 +33,7 @@ Rigor, claridad y sentido.
 - 🌀 Una mirada sistémica que integra lo técnico con lo simbólico
  
 ---
-
 ## ✨ La Filosofía Magnus 360
-
-> “La tierra no nos pertenece, nosotros pertenecemos a la tierra.”<br>
-> “En lo salvaje está la preservación del mundo.”<br>
-> “La biodiversidad es la verdadera riqueza de la Tierra.”<br>
-> “La naturaleza no es un lugar para visitar. Es el hogar.”<br>
-> “Cada flor es un alma que florece en la naturaleza.”
-
-En Proyectos Magnus 360 creemos que cada proyecto de conservación cuenta una historia que merece ser estructurada, comunicada y transformada en impacto real.
-
----
 
 <div style="background-color:#e6f5d0; padding:20px; border-radius:10px; font-style:italic; line-height:1.8;">
 
@@ -55,6 +44,8 @@ En Proyectos Magnus 360 creemos que cada proyecto de conservación cuenta una hi
 <p>“Cada flor es un alma que florece en la naturaleza.”</p>
 
 </div>
+
+En Proyectos Magnus 360 creemos que cada proyecto de conservación cuenta una historia que merece ser estructurada, comunicada y transformada en impacto real.
 
 ---
 
