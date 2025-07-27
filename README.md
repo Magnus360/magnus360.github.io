@@ -1,7 +1,7 @@
 # 🌱 Proyectos Magnus 360 - Sitio Web Oficial
 
 <p align="center">
-  <img src="logo.jpg" alt="Logo Proyectos Magnus 360" width="200"/>
+  <img src="logo.jpg" alt="Logo Proyectos Magnus 360" width="400"/>
 </p>
 
 ---
@@ -67,16 +67,13 @@ Déjanos ayudarte a estructurarlo, comunicarlo y convertirlo en un proyecto cert
 Para proyectos, colaboraciones o consultas:
 
 <p align="center">
-  <img src="assets/logo.png" alt="Logo Proyectos Magnus 360" width="200"/>
+  <img src="Firma_email.png" alt="Firma Email Magnus 360" width="400"/>
 </p>
 
 ---
+*Proyectos Magnus 360*  
 
-
-**Proyectos Magnus 360**  
 Correo: jcalvarez@magnus360.xyz  
-WhatsApp: _link de contacto directo_  
-Instagram / LinkedIn: _enlaces a redes sociales
 
 ---
 
