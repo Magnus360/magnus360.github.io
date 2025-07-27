@@ -65,18 +65,17 @@ y demos el primer paso.
 
 ## ✉️ Contacto
 
-Para proyectos, colaboraciones o consultas:
+Para proyectos, colaboraciones o consultas.
+Correo: [proyectos@magnus360.xyz](mailto:proyectos@magnus360.com?subject=Consulta&body=Hola%2C%20quiero%20saber%20m%C3%A1s%20sobre%20sus%20servicios.)  
 
 <p align="center">
   <img src="proyectos_email.png" alt="Firma Email Magnus 360" width="400"/>
 </p>
 
 ---
-*Proyectos Magnus 360*  
-
-Correo: [proyectos@magnus360.xyz](mailto:proyectos@magnus360.com?subject=Consulta&body=Hola%2C%20quiero%20saber%20m%C3%A1s%20sobre%20sus%20servicios.)   
-
----
+<p align="center">
 
 **Proyectos Magnus 360 – El territorio tiene voz, nosotros lo certificamos. Proyectos con alma, números con sentido.**
+
+</p>
 
