@@ -37,14 +37,13 @@ Rigor, claridad y sentido.
 ## ✨ La Filosofía Magnus 360
 
 <div style="background-color:#f0f4f1; padding: 20px; border-left: 5px solid #2e7d32; font-family:Georgia, serif; line-height:1.6;">
-
-> “La tierra no nos pertenece, nosotros pertenecemos a la tierra.”
-> “En lo salvaje está la preservación del mundo.”
->  ⠀  
->  ⠀⠀  
-> “La biodiversidad es la verdadera riqueza de la Tierra.” ⠀⠀  
-> “La naturaleza no es un lugar para visitar. Es el hogar.” ⠀⠀  
-> “Cada flor es un alma que florece en la naturaleza.”  
+ 
+> “La tierra no nos pertenece, nosotros pertenecemos a la tierra.”<br>
+> “En lo salvaje está la preservación del mundo.”<br>
+> “La biodiversidad es la verdadera riqueza de la Tierra.”<br>
+> “La naturaleza no es un lugar para visitar. Es el hogar.”<br>
+> “Cada flor es un alma que florece en la naturaleza.”
+  
 
 <p style="text-align:right; font-style:italic; margin-top:10px;">— Ecos de una visión enraizada</p>
 
