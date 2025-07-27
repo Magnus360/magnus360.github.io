@@ -47,6 +47,7 @@ Rigor, claridad y sentido.
 </div>
 
 <p style="text-align:right; font-style:italic; margin-top:10px;">— Ecos de una visión enraizada</p>
+
 En Proyectos Magnus 360 creemos que cada proyecto de conservación cuenta una historia que merece ser estructurada, comunicada y transformada en impacto real.
 
 ---
