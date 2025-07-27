@@ -46,6 +46,18 @@ En Proyectos Magnus 360 creemos que cada proyecto de conservación cuenta una hi
 
 ---
 
+<div style="background-color:#e6f5d0; padding:20px; border-radius:10px; font-style:italic; line-height:1.8;">
+
+<p>“La tierra no nos pertenece, nosotros pertenecemos a la tierra.”</p>
+<p>“En lo salvaje está la preservación del mundo.”</p>
+<p>“La biodiversidad es la verdadera riqueza de la Tierra.”</p>
+<p>“La naturaleza no es un lugar para visitar. Es el hogar.”</p>
+<p>“Cada flor es un alma que florece en la naturaleza.”</p>
+
+</div>
+
+---
+
 ## 🚀 Trabajemos juntos
 ¿Tienes una reserva natural, una idea o un reto de conservación?
 Déjanos ayudarte a estructurarlo, comunicarlo y convertirlo en un proyecto certificado con valor real.
