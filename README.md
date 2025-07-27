@@ -36,7 +36,7 @@ Rigor, claridad y sentido.
 
 ## ✨ La Filosofía Magnus 360
 
-> “La tierra no nos pertenece, nosotros pertenecemos a la tierra.” — Jefe Seattle  
+> “La tierra no nos pertenece, nosotros pertenecemos a la tierra.” —  
 > En Proyectos Magnus 360 creemos que cada proyecto de conservación cuenta una historia que merece ser estructurada, comunicada y transformada en impacto real.
 
 ---
