@@ -38,8 +38,10 @@ Rigor, claridad y sentido.
 
 <div style="background-color:#f0f4f1; padding: 20px; border-left: 5px solid #2e7d32; font-family:Georgia, serif; line-height:1.6;">
 
-> “La tierra no nos pertenece, nosotros pertenecemos a la tierra.” ⠀⠀  
-> “En lo salvaje está la preservación del mundo.” ⠀⠀  
+> “La tierra no nos pertenece, nosotros pertenecemos a la tierra.”
+> “En lo salvaje está la preservación del mundo.”
+>  ⠀  
+>  ⠀⠀  
 > “La biodiversidad es la verdadera riqueza de la Tierra.” ⠀⠀  
 > “La naturaleza no es un lugar para visitar. Es el hogar.” ⠀⠀  
 > “Cada flor es un alma que florece en la naturaleza.”  
