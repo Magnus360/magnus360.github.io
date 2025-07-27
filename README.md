@@ -10,29 +10,41 @@ Este proyecto fusiona rigor técnico, claridad comunicativa y propósito simból
 
 El objetivo de este sitio web es comunicar de forma accesible y profesional los servicios, visión, metodología y resultados de Proyectos Magnus 360. Está estructurado para atender tanto a propietarios de reservas como a instituciones, operadores y aliados estratégicos.
 
----
-
-## 🧠 Contenido incluido
-
-- Página principal con mensaje inspirador y llamado a la acción
-- Información sobre la historia y propósito del proyecto
-- Servicios de consultoría técnica, legal y financiera
-- Metodología 360° para estructuración de proyectos
-- Portafolio de casos de éxito y testimonios
-- Sección de simbolismo y filosofía ambiental
-- Recursos educativos y blog
-- Datos de contacto y formulario de conexión
+La necesidad de traducir la complejidad técnica, financiera y legal de la conservación ambiental en herramientas claras, viables y justas es la génesis de Proyectos Magnus 360.
+Conectamos ciencia, normativa y símbolos para que cada hectárea protegida cuente su historia… y genere impacto medible.
 
 ---
+
+## 📊 Qué hacemos
+Consultoría especializada en certificación de créditos de carbono y conservación territorial.
+Diseñamos, modelamos y estructuramos proyectos bajo estándares nacionales e internacionales, con énfasis en:
+- Modelos de compensación y sostenibilidad financiera
+- Contratos transparentes entre propietarios, operadores y aliados
+- Presentaciones ejecutivas para tomadores de decisión
+- Asesoría técnica y estratégica para la acreditación de reservas
+- 
+---
+
+## 🔍 ¿Qué nos diferencia?
+Rigor, claridad y sentido.
+- 🧮 Modelos financieros y técnicos que anticipan escenarios
+- 🎯 Comunicación accesible para todos los stakeholders
+- 🌐 Narrativa digital y branding ambiental con impacto
+- 🌀 Una mirada sistémica que integra lo técnico con lo simbólico
+ 
+---
+
 ## ✨ La Filosofía Magnus 360
 
 > “La tierra no nos pertenece, nosotros pertenecemos a la tierra.” — Jefe Seattle  
 > En Proyectos Magnus 360 creemos que cada proyecto de conservación cuenta una historia que merece ser estructurada, comunicada y transformada en impacto real.
 
 ---
-## ⚖️ Licencia
 
-Este proyecto está bajo la licencia [MIT](LICENSE), lo que permite su uso, modificación y distribución con reconocimiento al autor original.
+## 🚀 Trabajemos juntos
+¿Tienes una reserva natural, una idea o un reto de conservación?
+Déjanos ayudarte a estructurarlo, comunicarlo y convertirlo en un proyecto certificado con valor real.
+📩 Contáctanos y demos el primer paso.
 
 ---
 
@@ -47,6 +59,5 @@ Instagram / LinkedIn: _enlaces a redes sociales
 
 ---
 
-**Transformamos territorios en proyectos con propósito.**  
-*Proyectos Magnus 360 – Rigor, claridad y sentido ambiental.*
+**Proyectos Magnus 360 – El territorio tiene voz, nosotros lo certificamos. Proyectos con alma, números con sentido.**
 
