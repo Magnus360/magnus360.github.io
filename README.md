@@ -51,7 +51,7 @@ Rigor, claridad y sentido.
 
 </div>
 
-En Proyectos Magnus 360 creemos que cada proyecto de conservación cuenta una historia que merece ser estructurada, comunicada y transformada en impacto real.
+>Voces de la tierra.
 
 ---
 
@@ -77,7 +77,7 @@ Correo: [proyectos@magnus360.xyz](mailto:proyectos@magnus360.com?subject=Consult
   
 <div style="background-color:#e6f5d0; padding:20px; border-radius:10px; font-style:italic; line-height:1.8;">
   
-Proyectos Magnus 360 – El territorio tiene voz, nosotros lo certificamos. Proyectos con alma, números con sentido.
+En Proyectos Magnus 360 creemos que cada proyecto de conservación cuenta una historia que merece ser estructurada, comunicada y transformada en impacto real.
 
 </div>
 
