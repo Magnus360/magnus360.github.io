@@ -68,7 +68,7 @@ y demos el primer paso.
 Para proyectos, colaboraciones o consultas:
 
 <p align="center">
-  <img src="Firma_email.png" alt="Firma Email Magnus 360" width="400"/>
+  <img src="proyectos_email.png" alt="Firma Email Magnus 360" width="400"/>
 </p>
 
 ---
