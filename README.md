@@ -58,7 +58,7 @@ Rigor, claridad y sentido.
 ## 🚀 Trabajemos juntos
 ¿Tienes una reserva natural, una idea o un reto de conservación?
 Déjanos ayudarte a estructurarlo, comunicarlo y convertirlo en un proyecto certificado con valor real.
-📩 [Contáctanos](mailto:proyectos@magnus360.com?subject=Consulta&body=Hola%2C%20quiero%20saber%20m%C3%A1s%20sobre%20sus%20servicios.)
+📩 [Contáctanos](mailto:proyectos@magnus360.xyz?subject=Consulta&body=Hola%2C%20quiero%20saber%20m%C3%A1s%20sobre%20sus%20servicios.)
 y demos el primer paso.
 
 ---
@@ -66,7 +66,7 @@ y demos el primer paso.
 ## ✉️ Contacto
 
 Para proyectos, colaboraciones o consultas.
-Correo: [proyectos@magnus360.xyz](mailto:proyectos@magnus360.com?subject=Consulta&body=Hola%2C%20quiero%20saber%20m%C3%A1s%20sobre%20sus%20servicios.)  
+Correo: [proyectos@magnus360.xyz](mailto:proyectos@magnus360.xyz?subject=Consulta&body=Hola%2C%20quiero%20saber%20m%C3%A1s%20sobre%20sus%20servicios.)  
 
 <p align="center">
   <img src="proyectos_email.png" alt="Firma Email Magnus 360" width="400"/>
