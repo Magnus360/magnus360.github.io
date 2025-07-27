@@ -1,5 +1,11 @@
 # 🌱 Proyectos Magnus 360 - Sitio Web Oficial
 
+<p align="center">
+  <img src="logo.jpg" alt="Logo Proyectos Magnus 360" width="200"/>
+</p>
+
+---
+
 Bienvenido al repositorio del sitio web de **Proyectos Magnus 360**, una iniciativa de consultoría ambiental enfocada en la certificación de créditos de carbono, la estructuración territorial y la narrativa de conservación.
 
 Este proyecto fusiona rigor técnico, claridad comunicativa y propósito simbólico para transformar reservas naturales en proyectos con impacto medible.
@@ -59,6 +65,13 @@ Déjanos ayudarte a estructurarlo, comunicarlo y convertirlo en un proyecto cert
 ## ✉️ Contacto
 
 Para proyectos, colaboraciones o consultas:
+
+<p align="center">
+  <img src="assets/logo.png" alt="Logo Proyectos Magnus 360" width="200"/>
+</p>
+
+---
+
 
 **Proyectos Magnus 360**  
 Correo: jcalvarez@magnus360.xyz  
