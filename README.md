@@ -58,7 +58,8 @@ En Proyectos Magnus 360 creemos que cada proyecto de conservación cuenta una hi
 ## 🚀 Trabajemos juntos
 ¿Tienes una reserva natural, una idea o un reto de conservación?
 Déjanos ayudarte a estructurarlo, comunicarlo y convertirlo en un proyecto certificado con valor real.
-📩 Contáctanos y demos el primer paso.
+📩 [Contáctanos](mailto:jcalvarez@magnus360.com?subject=Consulta%&body=Hola%2C%20quiero%20saber%20m%C3%A1s%20sobre%20sus%20servicios.)
+y demos el primer paso.
 
 ---
 
@@ -73,7 +74,7 @@ Para proyectos, colaboraciones o consultas:
 ---
 *Proyectos Magnus 360*  
 
-Correo: jcalvarez@magnus360.xyz  
+Correo: [jcalvarez@magnus360.xyz](mailto:jcalvarez@magnus360.com?subject=Consulta%&body=Hola%2C%20quiero%20saber%20m%C3%A1s%20sobre%20sus%20servicios.)   
 
 ---
 
