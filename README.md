@@ -1,6 +1,6 @@
 # 🌱 Consultoría y Proyectos - Magnus 360 - Sitio Web Oficial
 
-<p align="center"><img src="logo.jpg" alt="Logo Proyectos Magnus 360" width="400"/></p>
+<p align="center"><img src="logo.jpeg" alt="Logo Proyectos Magnus 360" width="400"/></p>
 <p align="center"><a href="https://magnus360.xyz"><img src="https://img.shields.io/badge/Estado-Estable-green" alt="Estado: Estable"/></a><img src="https://img.shields.io/badge/Versión-1.0.9-yellow" alt="Versión del proyecto"/><img src="https://img.shields.io/badge/Licencia-MIT-blue" alt="Licencia"/><a href="mailto:proyectos@magnus360.xyz"><img src="https://img.shields.io/badge/Contacto-proyectos@magnus360.xyz-lightgrey" alt="Contacto por email"/></a></p>
 
 
